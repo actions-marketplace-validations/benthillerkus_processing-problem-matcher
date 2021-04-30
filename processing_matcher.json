@@ -1,0 +1,12 @@
+{
+    "problemMatcher": [ {
+        "owner": "processing-problem-matcher",
+        "pattern": [ {
+            "regexp": "^(.+\\.pde):(\\d+):(\\d+):\\d+:\\d+: (.*)$",
+            "file": 1,
+            "line": 2,
+            "column": 3,
+            "message": 4
+        } ]
+    } ]
+}
