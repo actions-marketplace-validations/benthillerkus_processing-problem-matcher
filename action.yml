@@ -1,6 +1,6 @@
-name: GCC Problem Matcher
-description: Attaches a problem matcher that looks for errors during gcc builds
-author: Ammar Askar
+name: Processing Problem Matcher
+description: Attaches a problem matcher that looks for errors during processing java builds
+author: Bent Hillerkus
 branding:
   icon: check-square
   color: yellow
