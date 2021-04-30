@@ -6,7 +6,6 @@ prominently featured in pull requests like so:
 
 ![Matcher in action in pull request](/images/example-pull-request.png?raw=true)
 
-This is a direct port of the `$gcc` rule from [vscode-cpptools](https://github.com/microsoft/vscode-cpptools).
 Typical usage will be:
 
 ```yaml
